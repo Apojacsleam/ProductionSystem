@@ -1,0 +1,4 @@
+pyqt5~=5.15.4
+pandas~=1.4.2
+sqlalchemy~=1.4.32
+networkx~=2.7.1
